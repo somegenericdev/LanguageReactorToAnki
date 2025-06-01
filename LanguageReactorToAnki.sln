@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageReactorToAnki", "LanguageReactorToAnki\LanguageReactorToAnki.csproj", "{8B9749C5-334A-4CC9-BAA5-CDDFD42B7307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9749C5-334A-4CC9-BAA5-CDDFD42B7307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9749C5-334A-4CC9-BAA5-CDDFD42B7307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9749C5-334A-4CC9-BAA5-CDDFD42B7307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9749C5-334A-4CC9-BAA5-CDDFD42B7307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F420772D-ACFC-418E-B571-4C0D6EB75F31}
+	EndGlobalSection
+EndGlobal
